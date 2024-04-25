@@ -1,0 +1,8 @@
+{
+    "drivername": "postgresql+psycopg2",
+    "username": "postgres",
+    "password": "postgres123",
+    "host": "super-open-stocks-rds.c9ko248kcabw.us-east-1.rds.amazonaws.com",
+    "port": "5432", 
+    "database": "stock_data"
+}
